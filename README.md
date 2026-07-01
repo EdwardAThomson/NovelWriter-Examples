@@ -40,7 +40,7 @@ This repository serves as a showcase of NovelWriter's capabilities, demonstratin
 #### Starbound Legacy: The Awakening
 - **Title:** "Starbound Legacy: The Awakening"
 - **Genre:** Science Fiction - Space Opera
-- **Length:** 50,339 words (13 chapters)
+- **Length:** 50,339 words (12 chapters)
 - **LLM Used:** GPT-4o
 - **Plot:** Following Kael Ardyn, an engineer thrust into an interplanetary conspiracy involving AI consciousness, transhumanism, and alien threats. The story explores themes of identity, technological evolution, and the balance between humanity and artificiality.
 - **Files:** Complete novel with all intermediate generation files including character profiles, faction details, world-building, and scene plans
@@ -49,7 +49,7 @@ This repository serves as a showcase of NovelWriter's capabilities, demonstratin
 #### Project Chimera: The Whisper in the Wires
 - **Title:** "Project Chimera: The Whisper in the Wires" 
 - **Genre:** Science Fiction - Space Opera
-- **Length:** 88,681 words (26 chapters)
+- **Length:** 88,681 words (25 chapters)
 - **LLM Used:** Gemini 1.5
 - **Plot:** Featuring Elara Vance, a genetically enhanced Chimera pilot who discovers ancient alien artifacts and mysterious whispers that lead her into a galaxy-spanning conspiracy involving the Architects and hidden powers.
 - **Files:** Complete workflow demonstration using Gemini models, showing different AI approaches to the same story framework
