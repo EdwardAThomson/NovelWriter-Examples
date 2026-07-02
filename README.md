@@ -81,6 +81,7 @@ Project_Name/
 │   ├── parameters.txt             # Initial story parameters
 │   ├── generated_lore.md          # Universe background
 │   ├── characters.md              # Character profiles
+│   ├── characters_enhanced.md     # Expanded character profiles
 │   ├── factions.md                # Faction details
 │   ├── planets.md                 # World-building elements
 │   ├── technology.md              # Setting technology
@@ -88,8 +89,8 @@ Project_Name/
 │   ├── story_structure.md         # Plot outline
 │   └── chapter_outlines.md        # Chapter summaries
 └── scene_outlines/                # Detailed scene plans
-    ├── scenes_act_1_ch1.md
-    ├── scenes_act_1_ch2.md
+    ├── scenes_chapter_1.md
+    ├── scenes_chapter_2.md
     └── ...
 ```
 
